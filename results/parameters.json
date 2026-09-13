@@ -1,0 +1,14 @@
+{
+  "output": "task3_l20/o6_grasp/outputs/deliverable",
+  "cube_x": 0.043,
+  "cube_y": 0.0,
+  "cube_z": 0.095,
+  "size": 0.05,
+  "finger": 1.3,
+  "thumb_yaw": 1.2,
+  "thumb_pitch": 0.5,
+  "render": true,
+  "asset": "/home/h6ycrh8m/workspace/task3_l20/o6_grasp/assets/o6_hand.usd",
+  "isaaclab": "/opt/IsaacLab",
+  "duration": 9.0
+}

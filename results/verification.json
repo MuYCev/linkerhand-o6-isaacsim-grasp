@@ -1,0 +1,22 @@
+{
+  "pass": true,
+  "checks": {
+    "finger_contact_present": true,
+    "no_support_contact": true,
+    "held_at_least_two_simulation_seconds": true,
+    "remained_near_grasp_height": true,
+    "drift_under_10mm": true,
+    "support_fully_separated": true,
+    "falls_after_opening": true
+  },
+  "hold_duration_s": 2.0666660000000006,
+  "maximum_drift_m": 2.255601750679807e-06,
+  "height_range_m": [
+    0.31300118565559387,
+    0.31300267577171326
+  ],
+  "minimum_support_gap_bound_m": 0.16134311079979063,
+  "release_drop_m": 0.2880025878548622,
+  "minimum_finger_normal_force_sum_N": 8.574481345954037,
+  "maximum_support_normal_force_N": 0.0
+}

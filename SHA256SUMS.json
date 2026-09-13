@@ -1,0 +1,21 @@
+{
+  ".gitignore": "e9f5cb6dc9930c5c05068a0dc91f38776582eea9fbddea0a92143435e97d820e",
+  "PROVENANCE.md": "406b1e1ead4e24b98e9a18adfee06168f7d1d499f8ff176843be7da113364627",
+  "README.md": "b9c576f1e577ee090e5ec51224cec579e127cec9605e3e7d91c49465817b0f26",
+  "RUNNING.md": "808a384a0408e953220b1fe4377ca85f627cafc7e099993031d3e3ae1b396468",
+  "SUBMISSION.md": "41148307b8d91e8dbe45617e5c5616492a1d71ff7c0ffeb9103badc757b266f8",
+  "assets/o6_hand.usd": "1125cf4d2dfcdd4cae7fce567dc7d049a5ec86496f01559a4a30987e032f19ff",
+  "compose_video.py": "af52125e6f8dd85283f4d37ec06876d7d6891977dc068c27f9978a589bd3dbc9",
+  "grasp_demo.py": "6b11372b8873b81e9150f5cceb57845a424672c4836069ab8697f79ec96f9dd5",
+  "results/O6_grasp_demo.mp4": "5b79142d808ea708d826392d4ca838eb55ad103bb5ccc09c15562e2fe24563cb",
+  "results/grasp_raw.mp4": "cd0a33bcdfab1644ddcd2d55093fe20c99140dbb38ef40e3eff12caef26c65c0",
+  "results/overview_raw.mp4": "ee4c907102b70b7e70d579c119c413fb0f31c27b1516017c538c36e046c397fe",
+  "results/parameters.json": "430c14f5cd4a0dfbcd589068cd4ca259bb3b21822adf847a7895e6a0a32d19d4",
+  "results/poster.png": "f424f9a3227a5c0c78b31b39b09babad224139fd683ded8d4939f4b3b3a5de3c",
+  "results/trajectory.json": "bb2b0ca598da9e045e77e117081e07f97109f14980b2692d54086f1a4f9041ff",
+  "results/verification.json": "85ba2aea963d6438d78e25a8d5ee88cfddc7188b625f5de58dcc05f10793e08c",
+  "run.sh": "f1ddcd4707c7cfed97ee76c85b0d4714f5eb6049400861578f3c7f65116dd5d5",
+  "run_recording.sh": "4b0561ef352f3b3d4392335f9f1748c99a5f24a6e265c3551b22c8f1ff513440",
+  "start_isaacsim.sh": "2a75b2707190d7498d7c4bde4b1b08e2efb0b4eec4a525455171c3d6e8248397",
+  "verify.py": "7d097dc360ffd43d1ebd8fd49e40f9fa06d072366a8b2f7b909238e78bf06058"
+}
